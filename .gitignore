@@ -1,0 +1,8 @@
+# Negeer alles binnen Jumper_Project
+# Jumper_Project/*
+
+Jumper_Project/Library/
+Jumper_Project/Logs/
+
+# Maar NIET de Assets map binnen Jumper_Project
+!Jumper_Project/Assets/
