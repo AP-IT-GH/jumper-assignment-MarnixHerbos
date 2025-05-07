@@ -1,0 +1,29 @@
+{
+    "Player": {
+        "checkpoints": [
+            {
+                "steps": 100002,
+                "file_path": "results\\JumperAgent\\Player\\Player-100002.onnx",
+                "reward": 0.3333333333333333,
+                "creation_time": 1746470067.9070687,
+                "auxillary_file_paths": [
+                    "results\\JumperAgent\\Player\\Player-100002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100002,
+            "file_path": "results\\JumperAgent\\Player.onnx",
+            "reward": 0.3333333333333333,
+            "creation_time": 1746470067.9070687,
+            "auxillary_file_paths": [
+                "results\\JumperAgent\\Player\\Player-100002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
